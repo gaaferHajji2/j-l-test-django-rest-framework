@@ -1,0 +1,5 @@
+my_api/db.sqlite3
+.venv
+my_api/my_api/__pycache__
+my_api/my_api/__pycache__/
+my_api/my_api/__pycache__/*
