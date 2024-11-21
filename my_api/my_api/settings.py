@@ -38,6 +38,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'first_api.apps.FirstApiConfig',
+
+    # !Added By Jafar Loka
+    'rest_framework'
 ]
 
 MIDDLEWARE = [
