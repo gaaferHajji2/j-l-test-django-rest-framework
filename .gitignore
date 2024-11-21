@@ -1,4 +1,4 @@
 my_api/db.sqlite3
-.venv
+.venv/
 **/__pycache__/
 my_api/first_api/tests.py
